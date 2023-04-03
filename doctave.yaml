@@ -1,0 +1,84 @@
+---
+title: ORTAK POLİTİKALAR MUTABAKAT METNİ
+colors:
+  main: "#D81920"
+
+navigation:
+  - path: docs/README.md
+  - path: docs/Ozet.md
+  - path: docs/I
+    children:
+      - path: docs/I/01.md
+      - path: docs/I/02.md
+      - path: docs/I/03.md
+      - path: docs/I/04.md
+      - path: docs/I/05.md
+  - path: docs/II
+  - path: docs/III
+  - path: docs/IV
+    children:
+      - path: docs/IV/01.md
+      - path: docs/IV/02.md
+      - path: docs/IV/03.md
+      - path: docs/IV/04.md
+      - path: docs/IV/05.md
+      - path: docs/IV/06.md
+      - path: docs/IV/07.md
+      - path: docs/IV/08.md
+      - path: docs/IV/09.md
+      - path: docs/IV/10.md
+      - path: docs/IV/11.md
+  - path: docs/V
+    children:
+      - path: docs/V/01.md
+      - path: docs/V/02.md
+      - path: docs/V/03.md
+      - path: docs/V/04.md
+      - path: docs/V/05.md
+  - path: docs/VI
+    children:
+      - path: docs/VI/01.md
+      - path: docs/VI/02.md
+      - path: docs/VI/03.md
+      - path: docs/VI/04.md
+      - path: docs/VI/05.md
+      - path: docs/VI/06.md
+      - path: docs/VI/07.md
+      - path: docs/VI/08.md
+      - path: docs/VI/09.md
+      - path: docs/VI/10.md
+      - path: docs/VI/11.md
+      - path: docs/VI/12.md
+      - path: docs/VI/13.md
+      - path: docs/VI/14.md
+      - path: docs/VI/15.md
+      - path: docs/VI/16.md
+      - path: docs/VI/17.md
+      - path: docs/VI/18.md
+      - path: docs/VI/19.md
+      - path: docs/VI/20.md
+      - path: docs/VI/21.md
+  - path: docs/VII
+  - path: docs/VIII
+    children:
+      - path: docs/VIII/01.md
+      - path: docs/VIII/02.md
+      - path: docs/VIII/03.md
+      - path: docs/VIII/04.md
+      - path: docs/VIII/05.md
+      - path: docs/VIII/06.md
+      - path: docs/VIII/07.md
+      - path: docs/VIII/08.md
+      - path: docs/VIII/09.md
+      - path: docs/VIII/10.md
+      - path: docs/VIII/11.md
+      - path: docs/VIII/12.md
+      - path: docs/VIII/13.md
+  - path: docs/IX
+    children:
+      - path: docs/IX/01.md
+      - path: docs/IX/02.md
+      - path: docs/IX/03.md
+      - path: docs/IX/04.md
+      - path: docs/IX/05.md
+
