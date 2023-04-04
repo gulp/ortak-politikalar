@@ -5,9 +5,7 @@ title: GİRİŞ
 GİRİŞ
 =====
 
-Toplumu en geniş yelpazede temsil eden altı siyasi parti olarak, Türkiye’nin yıllardır  görmeyi umut ettiği tarihi bir birliktelik için 12 Şubat 2022 tarihinde bir araya geldik ve 
-
-“Yarın’ın Türkiyesi”ni inşa sürecini başlattık.
+Toplumu en geniş yelpazede temsil eden altı siyasi parti olarak, Türkiye’nin yıllardır  görmeyi umut ettiği tarihi bir birliktelik için 12 Şubat 2022 tarihinde bir araya geldik ve “Yarın’ın Türkiyesi”ni inşa sürecini başlattık.
 
 Bu süreçte etkin ve katılımcı bir yasama, istikrarlı, şeffaf ve hesap verebilir bir yürütme, bağımsız ve tarafsız bir yargı ile kuvvetler ayrılığının tesis edildiği “Güçlendirilmiş  Parlamenter Sistemi” ve üretimde verimliliği, yenilikçiliği ve rekabet gücümüzü tahkim eden, tarım,  enerji, savunma sanayi, sağlık gibi kritik alanlarda arz güvenliğini tesis eden, nitelikli, kaliteli  istihdam imkânlarını artıran, büyüme sürecinde herkesi kucaklayan, refahın adil paylaşımını  sağlayan, çevre başta olmak üzere, sürdürülebilirliği bütün boyutlarıyla ele alan “Yeni Nesil” bir  kalkınma stratejisini beraberce hayata geçirme kararlığımızı ortaya koyduk.
 
