@@ -1,10 +1,9 @@
---title: ÖZET
---
+---
+title: ÖZET
+---
+
 ÖZET
 ===
-
-
-
 
 Milletimizi en geniş yelpazede temsil eden altı siyasi parti olarak Cumhuriyet tarihinin en derin yönetim ve ekonomik krizini aşmak amacıyla büyük bir kararlılıkla yürüttüğümüz ortak çalışmalarda yeni bir aşamaya gelmiş bulunmaktayız. Temel politika alanlarında milletimizin menfaatleri doğrultusunda belirlediğimiz hedef, politika ve projeleri içeren “Ortak Politikalar Mutabakat Metni”mizi kamuoyuna açıklıyoruz. Ortak Politikalar Mutabakat Metnimiz, (1) hukuk, adalet yargı, (2) kamu yönetimi, (3) yolsuzlukla mücadele, şeffaflık ve denetim, (4) ekonomi, finans ve istihdam, (5) bilim, Ar-Ge, yenilikçilik, girişimcilik ve dijital dönüşüm, (6) sektörel politikalar, (7) eğitim ve öğretim, (8) sosyal politikalar ve (9) dış politika, savunma, güvenlik ve göç olmak üzere 9 ana başlık altındaki 75 alt başlıkta 2300’den fazla somut hedef, politika ve projeleri ortaya koymaktadır.
 
