@@ -38,7 +38,11 @@ Milletimizi en geniş yelpazede temsil eden altı siyasi parti olarak Cumhuriyet
 * Yurt dışındaki vatandaşlarımızın en fazla 15 milletvekili ile doğrudan Meclis’te temsili için yurt dışı seçim çevresi oluşturacağız.
 * En son yapılan milletvekili genel seçiminde en az %1 oy alan siyasi partilerin hazine yardımından faydalanmasını sağlayacağız.
 * Siyasi partilerin kapatılmasına ilişkin davaların açılmasında TBMM’nin iznini zorunlu hale getireceğiz.
-* Siyasi partilere ve adaylara yapılan belirli miktarın üzerindeki bağışların ve seçim dönemlerinde yapılan tüm harcamaların kamuoyuna açıklanmasını zorunlu tutacağız. KAMU YÖNETİMİ
+* Siyasi partilere ve adaylara yapılan belirli miktarın üzerindeki bağışların ve seçim dönemlerinde yapılan tüm harcamaların kamuoyuna açıklanmasını zorunlu tutacağız. 
+
+
+### KAMU YÖNETİMİ
+
 * Cumhurbaşkanlığı bünyesindeki kurulları ve ofisleri lağvederek görev ve yetkilerini ilgili bakanlık ve kurumlara devredeceğiz.
 * Türkiye Varlık Fonu’nu kapatacağız.
 * Bakanlıkları yeşil ve dijital dönüşüm ve kapsayıcılık hedefimiz doğrultusunda yeniden yapılandıracağız.
@@ -53,6 +57,7 @@ Milletimizi en geniş yelpazede temsil eden altı siyasi parti olarak Cumhuriyet
 * KPSS sınavlarının sayısını artıracak ve sınavlardan ücret almayacağız.
 * Kamu hizmetlerinin gerektirdiği asli ve sürekli görevlerin vekil ya da taşeronlar eliyle yürütülmesine izin vermeyeceğiz.
 
+
 ### YOLSUZLUKLA MÜCADELE, ŞEFFAFLIK VE DENETİM
 
 * TBMM’de “Yolsuzlukları Araştırma Komisyonu” kuracağız.
@@ -66,6 +71,7 @@ Milletimizi en geniş yelpazede temsil eden altı siyasi parti olarak Cumhuriyet
 * Kamu Özel İşbirliği projelerinden kaynaklanan garanti ve diğer koşullu yükümlülükleri şeffaf bir biçimde yayınlayacağız.
 * TÜİK istatistiklerinin akademisyen ve uzmanlardan oluşan komisyonlar tarafından düzenli biçimde kalite ve güvenilirlik kontrolüne tabi tutulmasını zorunlu hale getireceğiz.
 * Siyasi Etik Kanunu’nu çıkaracak, Türkiye Büyük Millet Meclisi bünyesinde Siyasi Etik Komisyonu kuracak, grubu bulunan siyasi partiler bünyesinde siyasi etik kurulları oluşturulmasını düzenleyeceğiz.
+
 
 ### EKONOMİ, FİNANS VE İSTİHDAM
 
@@ -115,6 +121,7 @@ Milletimizi en geniş yelpazede temsil eden altı siyasi parti olarak Cumhuriyet
 * İşsizlik Sigortası Fonu’na %2’lik işveren katkısının yarısını “Yarına Hazırlık Fonu’na” aktaracak, bu fon aracılığıyla işsiz kalma riski yüksek çalışanlara yönelik beceri kazandırma yatırımlarına finansman sağlayacağız.
 * Mesleki eğitim müfredatını geleceğin meslekleri doğrultusunda güncelleyecek, öğrencilere farklı alanlarda da kullanabilecekleri taşınabilir yeni beceriler kazandıracağız.
 * OSB’ler bünyesinde ilgili paydaşların yönetiminde bulunduğu Teknoloji Liseleri kuracağız. ORTAK POLİTİKALAR MUTABAKAT METNİ
+
 
 ### BİLİM, AR-GE, YENİLİKÇİLİK, GİRİŞİMCİLİK VE DİJİTAL DÖNÜŞÜM
 
